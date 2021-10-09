@@ -1,0 +1,35 @@
+body {
+  font-family: Tahoma;
+  background-color: #a0c4ff;
+}
+
+h1 {
+  font-family: Brush Script;
+  color: #ffffff;
+  font-size: 160px;
+}
+
+img {
+  margin-bottom: 20px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+p {
+  font-size: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+img {
+  margin-right: 10px;
+}
